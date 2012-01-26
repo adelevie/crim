@@ -31,3 +31,13 @@ category : crim
 	- Legislative history: when the above don't work, resolve to this
 - dissent:
 	- ambiguity not nec. => lenity
+
+#### United States v. Yermian
+- 18 USC 1001 outlaws false statements. requires knowledge of the falsity.
+- defendant (respondent) didn't disclose prior criminal conviction on employment application
+	- admitted to actual knowledge of the falsity, but claimed he didn't know the info would go to a federal agency
+- appeals court reverse conviction, holding defendant's proposed jury instruction was correct because "knowingly and willfully" modify "false statements" within the jurisdiction of a federal agency.
+- issue: did congress intend "knowingly and willfully" to modify language of the statute?
+- supreme court reverses appeals court because plain language and legislative history establish that proof of actual knowledge of a fed agency is not required.
+- dissent:
+	-
