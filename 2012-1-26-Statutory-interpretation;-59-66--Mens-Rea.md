@@ -1,0 +1,10 @@
+---
+layout : post
+category : crim
+topic :  Mens Rea
+read : false
+briefed : false
+discussed : false
+---
+
+### Statutory interpretation; 59-66
