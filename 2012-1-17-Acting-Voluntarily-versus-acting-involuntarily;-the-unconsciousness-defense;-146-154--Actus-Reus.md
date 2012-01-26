@@ -95,3 +95,18 @@ discussed : false
 	- (1) Min. Requirements of Culpability: knowingly/purposely/recklessly/or negligently must apply to every material element
 		- what is a material element?
 		- what is an element?
+	- (2)
+		- (a) *purposely*
+			- (i) conscious object to engage in conduct of that nature or to cause such a result
+				- to be guilty, it would have to be his conscious objective to administer a noxious substance, *and* that he consciously wanted to endanger another person's life
+			- *and*
+			- (ii) aware of attendant circumstances, or believes/hopes they exist
+				- he must believe/hope/be aware that what he is administering is gas *and* that it is to another person
+					- when he removed the gas meter, he know gas would seep out, that it would reach another person, and that it would endanger her life
+		- (b) *knowingly*
+			- (i) conduct *or* attendant circumstances: aware that his conduct is of that nature
+			- *and*
+			- (ii) aware that conduct will cause such a result
+			- to show guilt, he'd have to be "aware" that he was administering gas to the lady, and "practically certain" that she would be endangered as a result
+		- (c) *recklessly*
+		- (d) *negligently*

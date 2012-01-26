@@ -40,4 +40,13 @@ category : crim
 - issue: did congress intend "knowingly and willfully" to modify language of the statute?
 - supreme court reverses appeals court because plain language and legislative history establish that proof of actual knowledge of a fed agency is not required.
 - dissent:
-	-
+	- court's reading is not compelled by the language of the statute
+
+#### Holloway v. US
+- carjacking, threaten with a gun, then hit someone when they refuse, but never shoot the gun at them
+- statute outlaws carjacking with intent to kill
+- issue: is the intent conditional?
+- majority:
+	- no. he had a gun, he threatened someone with it, he had intent
+- dissent (scalia):
+	- yes. he may not have followed through with his threat.
