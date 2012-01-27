@@ -54,7 +54,7 @@ category : crim
 - dissent:
 	- court's reading is not compelled by the language of the statute
 
-#### Holloway v. US
+#### Holloway v. United States
 - carjacking, threaten with a gun, then hit someone when they refuse, but never shoot the gun at them
 - statute outlaws carjacking with intent to kill
 - issue: is the intent conditional?
