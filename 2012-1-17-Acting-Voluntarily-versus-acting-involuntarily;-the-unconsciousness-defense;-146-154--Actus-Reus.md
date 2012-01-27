@@ -103,10 +103,16 @@ discussed : false
 			- (ii) aware of attendant circumstances, or believes/hopes they exist
 				- he must believe/hope/be aware that what he is administering is gas *and* that it is to another person
 					- when he removed the gas meter, he know gas would seep out, that it would reach another person, and that it would endanger her life
+			- prosecutors can use *"natural probable consequences"* doctrine to prove purpose
+				- jury can presume natural and probable consequences of defendant's conduct
 		- (b) *knowingly*
 			- (i) conduct *or* attendant circumstances: aware that his conduct is of that nature
 			- *and*
 			- (ii) aware that conduct will cause such a result
 			- to show guilt, he'd have to be "aware" that he was administering gas to the lady, and "practically certain" that she would be endangered as a result
 		- (c) *recklessly*
+			- consciously disregards a *substantial* and *unjustifiable* risk that the material element exists or will result from his conduct
+			- gross deviation from the standard of conduct of that a law-abiding person would observe in the actor's situation
+			- two steps: aware of risk, then disregard the risk
 		- (d) *negligently*
+			- he should have been aware, but wasn't (key difference between recklessly)

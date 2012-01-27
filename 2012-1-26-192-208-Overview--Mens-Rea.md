@@ -11,7 +11,7 @@ category : crim
 
 #### US v. Daury
 - Daury arrested with pics from magazines
-- statute punishes possession of 3 or more matter depicting minors engaging in sexual conduct
+- statute punishes knowing possession of 3 or more books, magazines, or other matter depicting minors engaging in sexual conduct
 - jury was to decide if pictures were "laviscious"
 - on appeal from conviction judgement, Daury argues:
 	- wording is ambiguous, and should favor him
@@ -26,11 +26,23 @@ category : crim
 	- canons of construction
 		- *noscitur a soccis*: meaning can come from a word's relationship to the other words near it
 		- *ejusdem generis*: when general words follow an enumeration, the general words should be limited to the things specifically enumerate
-			- magazine et al in the statue are picture containers, mag clippings are not pic containers
+			- *magazine et al in the statue are picture CONTAINers, mag clippings are not pic containers* &lt;/smart logic>
 		- statutory structure
 	- Legislative history: when the above don't work, resolve to this
 - dissent:
 	- ambiguity not nec. => lenity
+
+### Parsing ambiguity	
+- PLAIN MEANING first
+	- else, use *Four Cannons of Construction*:
+		1. Lists and other associated terms
+		2. Structure of the statute
+		3. Statutory amendment
+		4. Avoiding absurdity
+	- else, look at *legislative history*
+	- else, *Due Process Clause* kicks in
+		- it is unfair to be held criminally liable when we weren't given fair notice that our conduct was unlawful
+		- apply rule of *lenity*: interpret statute in way that is lenient to defendant (p. 65)
 
 #### United States v. Yermian
 - 18 USC 1001 outlaws false statements. requires knowledge of the falsity.
