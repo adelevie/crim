@@ -3,6 +3,9 @@ layout : post
 category : crim
 ---
 
+* This will become a table of contents (this text will be scraped).
+{:toc}
+
 ### Statutory interpretation p 
 - "plain language" of statute must be respected
 - determine *legislative intent*
@@ -53,6 +56,7 @@ category : crim
 - supreme court reverses appeals court because plain language and legislative history establish that proof of actual knowledge of a fed agency is not required.
 - dissent:
 	- court's reading is not compelled by the language of the statute
+- TODO: apply the MPC 2.02(3), 2.02(4)
 
 #### Holloway v. United States
 - carjacking, threaten with a gun, then hit someone when they refuse, but never shoot the gun at them
@@ -62,3 +66,4 @@ category : crim
 	- no. he had a gun, he threatened someone with it, he had intent
 - dissent (scalia):
 	- yes. he may not have followed through with his threat.
+- TODO: apply the MPC 2.02(6); 2.02(7)
